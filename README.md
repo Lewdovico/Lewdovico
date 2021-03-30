@@ -1,4 +1,15 @@
-### Hi there 👋
+Whats Up Dawg 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Lil Peep](lilpeep.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+  Visitor Count<br/>
+  <img src="https://profile-counter.glitch.me/LudovicoSforza/count.svg" />
+</p>
+
 
 <!--
 **LudovicoSforza/LudovicoSforza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
