@@ -12,9 +12,11 @@ Whats Up Dawg
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center"><p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5wpl4btxswtb6netngdncx4f3&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5wpl4btxswtb6netngdncx4f3&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<p>
 <br>
-</p>
+<br>
 </div>
 <!--
 **LudovicoSforza/LudovicoSforza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
