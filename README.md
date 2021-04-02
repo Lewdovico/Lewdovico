@@ -5,15 +5,17 @@
 ![Lil Peep](lilpeep.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  Visitor Count<br/>
-  <img src="https://profile-counter.glitch.me/LudovicoSforza/count.svg" />
-</p>
+
+<div align="center">
+  <h2>My Discord (^)o(^)b</h2>
+  <img src="https://discord.c99.nl/widget/theme-2/798430788676616192.png" />
+</div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2 align="center" style="font-size: 24px">~ 📻 Good Song Dawg 📻 ~</h2>
-<br>
+
 <div align="center"><p>
+<h2 style="font-size: 24px">~ 📻 Good Song Dawg 📻 ~</h2>
+<br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5wpl4btxswtb6netngdncx4f3&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=5wpl4btxswtb6netngdncx4f3&redirect=true)
 <p>
