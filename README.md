@@ -7,8 +7,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-  <h2>My Discord (^)o(^)b</h2>
-  <img src="https://discord.c99.nl/widget/theme-2/798430788676616192.png" />
+  <h2>Curently Learning</h2>
+  ![image]({https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white})
+  ![image]({https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black})
+  ![image]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white})
+  ![image]({https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white})
 </div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
