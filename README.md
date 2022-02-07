@@ -1,6 +1,6 @@
   # 💫About Me :
 👋Hi, you can call me Vico.<br />
-💻I'm currently learning C++ and TypeScript
+💻I'm currently learning C++ and Cheat Engine 💀💀
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ludovico666_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/vicosforza) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ludovico1337) 
