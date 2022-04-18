@@ -1,6 +1,6 @@
 # 💫About Me :
 👋 Hi, you can call me Vico. <br />
-💻 I'm currently learning Rust and Golang.
+💻 I'm currently learning Rust and Golang. And focusing on my Private Project 🤪.
 
 
 # 💻Tech Stack
