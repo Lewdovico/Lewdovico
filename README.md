@@ -11,6 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ludovicosforza&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ludovicosforza&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# 💻 Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/298043281814585345)](https://discord.com/users/298043281814585345)
 ---
 [![](https://visitcount.itsvg.in/api?id=ludovicosforza&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
