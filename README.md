@@ -8,7 +8,7 @@ I've been learning to code for 5 years. Started with HTML and CSS, but have real
 
 *   🌍  I'm based in Queensland, Australia
 *   ✉️  You can contact me at [ludovicopiero@pm.me](mailto:ludovicopiero@pm.me)
-*   🧠  I'm currently learning Golang
+*   🧠  I'm currently learning Rust
 
 ### Tech Stack
 
