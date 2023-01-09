@@ -23,5 +23,5 @@ I've been learning to code for 5 years. Started with HTML and CSS, but have real
 
 ### Github Stats
 
-![](https://raw.githubusercontent.com/ludovicosforza/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ludovicosforza/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lewdovico/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lewdovico/github-stats/master/generated/languages.svg#gh-dark-mode-only)
