@@ -19,8 +19,8 @@
 
 ### Github Stats
 
-![](https://raw.githubusercontent.com/NorinaMadoka/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/NorinaMadoka/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/NorinaMadoka/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/NorinaMadoka/github-stats/master/generated/languages.svg)
 
 ------
 ![](https://komarev.com/ghpvc/?username=NorinaMadoka&color=ff69b4)
