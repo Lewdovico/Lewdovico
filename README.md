@@ -13,9 +13,9 @@
 ### Socials
 
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/298043281814585345) 
-[![Github](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/NorinaMadoka) 
+[![Github](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/LudovicoPiero) 
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/ludovico1337) 
-[![Mastodon](https://skillicons.dev/icons?i=mastodon&theme=dark)]([https://twitter.com/ludovico1337](https://social.gnuweeb.org/@vico)) 
+[![Mastodon](https://skillicons.dev/icons?i=mastodon&theme=dark)](https://social.gnuweeb.org/@vico) 
 
 ### Github Stats
 
