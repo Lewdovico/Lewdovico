@@ -17,12 +17,18 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/ludovico1337) 
 [![Mastodon](https://skillicons.dev/icons?i=mastodon&theme=dark)](https://social.gnuweeb.org/@vico) 
 
-### Github Stats
+### Import my Public Keys
 
-![](https://raw.githubusercontent.com/NorinaMadoka/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/NorinaMadoka/github-stats/master/generated/languages.svg)
+<details>
+  <summary>Click to expand</summary>
+  
+```bash
+$ curl -s https://github.com/ludovicopiero.gpg | gpg --import
+```
+
+</details>
 
 
-------
-![](https://komarev.com/ghpvc/?username=NorinaMadoka&color=ff69b4)
+
+![](https://komarev.com/ghpvc/?username=ludovicopiero&color=ff69b4)
 
