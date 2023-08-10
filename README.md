@@ -1,11 +1,10 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi My name is Ludovico
-================================================================================================================================
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  **Hi My name is Ludovico**
 
-### Tech stack & tools I used in the past 
+## Tech stack & tools I used in the past 
 
 [![My Skills](https://skillicons.dev/icons?i=go,rust,js,python,typescript,html,css,react,astro,tailwind,sass,nodejs,neovim,emacs,vscode,azure,gcp,heroku,cloudflare,linux&perline=7&theme=dark)](https://skillicons.dev)                    
 
-### Socials
+## Socials
 
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/298043281814585345) 
 [![Github](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/LudovicoPiero) 
@@ -14,7 +13,7 @@
 
 *   ✉️  You can contact me at [ludovicopiero@pm.me](mailto:ludovicopiero@pm.me)
 
-### Import my Public Keys
+## Import my Public Keys
 
 <details>
   <summary>Click to expand</summary>
