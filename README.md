@@ -11,7 +11,7 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/ludovico1337) 
 [![Mastodon](https://skillicons.dev/icons?i=mastodon&theme=dark)](https://social.gnuweeb.org/@vico)
 
-*   ✉️  You can contact me at [ludovicopiero@pm.me](mailto:ludovicopiero@pm.me)
+*   ✉️  You can contact me at [lewdovico@gnuweeb.org](mailto:lewdovico@gnuweeb.org)
 
 ## Import my Public Keys
 
@@ -27,3 +27,5 @@ $ curl -s https://github.com/ludovicopiero.gpg | gpg --import
 
 
 ![](https://komarev.com/ghpvc/?username=ludovicopiero&color=ff69b4)
+
+[README-ja](README-ja.md)
