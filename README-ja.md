@@ -6,13 +6,6 @@
 
 [![私のスキル](https://skillicons.dev/icons?i=go,rust,js,python,typescript,html,css,react,astro,tailwind,sass,nodejs,neovim,emacs,vscode,azure,gcp,heroku,cloudflare,linux&perline=7&theme=dark)](https://skillicons.dev)
 
-## ソーシャルメディア
-
-[![ディスコード](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/298043281814585345)
-[![ギットハブ](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/LudovicoPiero)
-[![ツイッター](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/ludovico1337)
-[![マストドン](https://skillicons.dev/icons?i=mastodon&theme=dark)](https://social.gnuweeb.org/@vico)
-
 * ✉️  私に連絡するには [lewdovico@gnuweeb.org](mailto:lewdovico@gnuweeb.org)までお気軽にどうぞ。
 
 ## 公開鍵のインポート
