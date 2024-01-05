@@ -1,6 +1,6 @@
 ## Tech stack & tools I used in the past 
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,js,python,typescript,html,css,react,astro,tailwind,sass,nodejs,neovim,emacs,vscode,azure,gcp,heroku,cloudflare,linux&perline=7&theme=dark)](https://skillicons.dev)                    
+[![My Skills](https://skillicons.dev/icons?i=nix,go,rust,js,python,typescript,html,css,react,astro,tailwind,sass,nodejs,neovim,emacs,vscode,azure,gcp,heroku,cloudflare,linux&perline=7&theme=dark)](https://skillicons.dev)                    
 
 *   ✉️  You can contact me at [lewdovico@gnuweeb.org](mailto:lewdovico@gnuweeb.org)
 
